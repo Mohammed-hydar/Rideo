@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+<link rel="stylesheet" href="style.css"/>
+    </head>
+    <body id="body">
+<main id="all">
+<article id="article1"></article>
+<article id="article2">
+<textarea id="text">
+
+</textarea>
+<div id="Reselt">
+
+</div>
+</article>
+<article id="article3">
+<section id="section1">
+<button id="delet">D</button>
+<button id="text1">+/-</button>
+<button id="text2">%</button>
+<button id="devaut">÷</button>
+</section>
+<section id="section2">
+<button id="number_1">1</button>
+<button id="number_2">2</button>
+<button id="number_3">3</button>
+<button id="multefecshen">×</button>
+</section>
+<section id="section3">
+<button id="number_4">4</button>
+<button id="number_5">5</button>
+<button id="number_6">6</button>
+<button id="munes">-</button>
+</section>
+<section id="section4">
+<button id="number_7">7</button>
+<button id="number_8">8</button>
+<button id="number_9">9</button>
+<button id="plus">+</button>
+</section>
+<section id="section5">
+<button id="number_0">0</button>
+<button id="number_10">.</button>
+<button id="equals" onClick="set()">=</button>
+</section>
+</article>
+</main>
+        <script src="script.js"></script>
+        <script src="script2.js"></script>
+    </body>
+</html>
