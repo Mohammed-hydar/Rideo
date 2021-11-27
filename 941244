@@ -1,0 +1,118 @@
+#body{
+background:#212121;
+}
+#all{
+Background:#212121;
+position:absolute;
+top:50%;
+left:50%;
+transform:translate(-50%,-50%);
+
+}
+#article1{
+width:100%;
+height:35%;
+Background:black;
+
+}
+#article2{
+width:100%;
+height:10%;
+Background:#757575;
+text-align:center;
+}
+#Reselt{
+background:#757575;
+color:#FFFFFF;
+outline:none;
+margin-top:0px;
+border:0px;
+font-size:20px;
+}
+#text{
+color:#FF0000;
+}
+#article3{
+width:100%;
+height:50%;
+Background:#212121;
+}
+#article3 section{
+width:100%;
+height:20%;
+}
+#section1, section2,section3,section4 {
+text-align:center;
+}
+
+#section1 button{
+width:23%;
+height:60px;
+border-radius:10px;
+border:0px;
+outline:none;
+margin-top:5px;
+color:#FFFFFF;
+font-size:20px;
+}
+#section2 button{
+width:23%;
+height:60px;
+border-radius:10px;
+border:0px;
+outline:none;
+margin-top:3px;
+color:#FFFFFF;
+font-size:20px;
+}
+#section3 button{
+width:23%;
+height:60px;
+border-radius:10px;
+border:0px;
+outline:none;
+margin-top:3px;
+color:#FFFFFF;
+font-size:20px;
+}
+#section4 button{
+width:23%;
+height:60px;
+border-radius:10px;
+border:0px;
+outline:none;
+margin-top:3px;
+color:#FFFFFF;
+font-size:20px;
+}
+#section5 button{
+width:23%;
+height:60px;
+border-radius:10px;
+border:0px;
+outline:none;
+margin-top:3px;
+color:#FFFFFF;
+font-size:20px;
+}
+#number_2,#number_3, #number_5, #number_6, #number_8, #number_9, #number_0,#number_10{
+background:#212121;
+margin:0px 2px;
+}
+#delet{
+background:#FF0000;
+}
+#equals{
+background:red;
+margin-right:10px;
+}
+#section5{
+text-align:right;
+}
+#devaut, #munes, #plus, #multefecshen,#text1,#text2{
+background:#424242;
+}
+#number_1, #number_4, #number_7{
+background:#212121;
+
+}
